@@ -16,5 +16,3 @@ while((b-a) >= 0.01):
               a = c
        iterasi+=1
 print("DONE")
-              
-              
